@@ -14,6 +14,11 @@ Project Team:
 - Dr. Francesca Albrezzi
 - ...
 
+Tools Used:
+
+- XR
+- ...
+
 ## Related Projects
 
 [Art of Africa and the African Diaspora](https://fowler.ucla.edu/art-africa-african-diaspora/)
