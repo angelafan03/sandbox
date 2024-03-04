@@ -29,4 +29,10 @@ hide:
 			<div class="caption"> | Art of Africa and the African Diaspora</div>
 		</a>
 	</div>
+	<div class="gallery-item">
+		<a href="template">
+			<img src="images/fowler.jpg" alt="Virtual Exhibition Tours">
+			<div class="caption">LINK TO TEMPLATE Virtual Exhibition Tours | Myrlande Constant: The Work of Radiance</div>
+		</a>
+	</div>
 </div> 

@@ -41,5 +41,11 @@ hide:
 			<div class="caption">Getting Started with Comparing and Annotating Digital Images - Part 1</div>
 		</a>
 	</div>
+	<div class="gallery-item">
+		<a href=template>
+			<img src="images/python.jpg" alt="LINK TO TEMPLATE Introduction to Spatial Statistics with Python">
+			<div class="caption">LINK TO TEMPLATE Introduction to Spatial Statistics with Python</div>
+		</a>
+	</div>
 	
 </div> 
